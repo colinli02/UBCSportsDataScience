@@ -8,7 +8,7 @@ Our key analysis includes, but are not limited to:
 ```
 Analysis of previous existing models
 
-Creating data scientific models to predict future events
+Creating data science models to predict future events
 
 Applying data science models to analyze past trends
 ```
