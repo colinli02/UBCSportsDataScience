@@ -7,8 +7,11 @@ As of currently, the focus is within the National Basketball Association (NBA) a
 The club aims to accept any members who are interested in joining weekly / biweekly events and put in their own analysis and statistic work. 
 
 Our key analysis includes, but are not limited to:
+
 Analysis of previous existing models
+
 Creating data scientific models to predict future events
+
 Applying data science models to analyze past trends
 
 
