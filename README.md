@@ -1,4 +1,4 @@
-# UBC Sports Data Science
+# UBC Sports Data Science 
 
 UBC Sports Data Science club is a student-run club that aims to apply models in data science towards analyzing sports.
 
@@ -14,7 +14,7 @@ Creating data scientific models to predict future events
 
 Applying data science models to analyze past trends
 
-
+TEST
 
 Student Exectuive Body:
 
