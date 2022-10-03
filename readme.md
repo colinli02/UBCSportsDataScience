@@ -13,7 +13,7 @@ Creating data scientific models to predict future events
 Applying data science models to analyze past trends
 ```
 
-Student Exectuive Body:
+Student Executuive Body:
 
 
 Club Founder
@@ -31,3 +31,14 @@ Github Manager
 Social Manager 
 
 ```Firstname Lastname```
+
+
+## Links:
+
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="14" height="16">
+
+Discord: 
+
+
+Instagram:
+![alt text](http://url/to/img.png)
