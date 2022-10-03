@@ -13,7 +13,7 @@ Creating data scientific models to predict future events
 Applying data science models to analyze past trends
 ```
 
-Student Executuive Body:
+## Student Executive Body:
 
 
 Club Founder
