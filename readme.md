@@ -16,15 +16,15 @@ Applying data science models to analyze past trends
 ## Submission Details
 
 When submitting any analysis, here are some minimium requirements:
-
-```
-1) Written analysis done in word editing document along with 
-  (preferably LaTeX. This document should explain any relevant files in your submission)
-2) Accompanying statistics and calculations in an exportable sheets or excel format (e.g. .csv)
-3) Anything else supporting (e.g. code used, .py, .cpp can also be in the folder)
-
 For reference, one can create a fork of the template in our repository under "Template"
 
+```
+1) Written analysis done in word editing software (preferably LaTeX.)
+    -  This document should explain any relevant files in your submission
+2) Accompanying statistics and calculations 
+    -  sheets or excel format (e.g. .csv)
+3) Anything else supporting
+    -  .py, .cpp code, any other supporting documents
 ```
 
 ## Examples of past work:
