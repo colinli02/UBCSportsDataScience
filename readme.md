@@ -13,6 +13,37 @@ Creating data science models to predict future events
 Applying data science models to analyze past trends
 ```
 
+## Submission Details
+
+When submitting any analysis, here are some minimium requirements:
+
+```
+1) Written analysis done in word editing document along with 
+  (preferably LaTeX. This document should explain any relevant files in your submission)
+2) Accompanying statistics and calculations in an exportable sheets or excel format (e.g. .csv)
+3) Anything else supporting (e.g. code used, .py, .cpp can also be in the folder)
+
+For reference, one can create a fork of the template in our repository under "Template"
+
+```
+
+## Examples of past work:
+
+```
+<here>
+```
+
+## Links:
+
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="14" height="16">
+
+Discord: 
+
+
+Instagram:
+![alt text](http://url/to/img.png)
+
+
 ## Student Executive Body:
 
 
@@ -31,14 +62,3 @@ Github Manager
 Social Manager 
 
 ```Firstname Lastname```
-
-
-## Links:
-
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="14" height="16">
-
-Discord: 
-
-
-Instagram:
-![alt text](http://url/to/img.png)
