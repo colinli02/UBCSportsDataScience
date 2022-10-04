@@ -16,6 +16,7 @@ Applying data science models to analyze past trends
 ## Submission Details
 
 When submitting any analysis, here are some minimium requirements:
+
 For reference, one can create a fork of the template in our repository under "Template"
 
 ```
